@@ -1,0 +1,13 @@
+C:\Users\Home\source\repos\GitPractiseDemoApp\GitPractise_Demo\bin\Debug\netcoreapp3.1\GitPractiseDemo.exe
+C:\Users\Home\source\repos\GitPractiseDemoApp\GitPractise_Demo\bin\Debug\netcoreapp3.1\GitPractiseDemo.deps.json
+C:\Users\Home\source\repos\GitPractiseDemoApp\GitPractise_Demo\bin\Debug\netcoreapp3.1\GitPractiseDemo.runtimeconfig.json
+C:\Users\Home\source\repos\GitPractiseDemoApp\GitPractise_Demo\bin\Debug\netcoreapp3.1\GitPractiseDemo.runtimeconfig.dev.json
+C:\Users\Home\source\repos\GitPractiseDemoApp\GitPractise_Demo\bin\Debug\netcoreapp3.1\GitPractiseDemo.dll
+C:\Users\Home\source\repos\GitPractiseDemoApp\GitPractise_Demo\bin\Debug\netcoreapp3.1\GitPractiseDemo.pdb
+C:\Users\Home\source\repos\GitPractiseDemoApp\GitPractise_Demo\obj\Debug\netcoreapp3.1\GitPractiseDemo.csprojAssemblyReference.cache
+C:\Users\Home\source\repos\GitPractiseDemoApp\GitPractise_Demo\obj\Debug\netcoreapp3.1\GitPractiseDemo.AssemblyInfoInputs.cache
+C:\Users\Home\source\repos\GitPractiseDemoApp\GitPractise_Demo\obj\Debug\netcoreapp3.1\GitPractiseDemo.AssemblyInfo.cs
+C:\Users\Home\source\repos\GitPractiseDemoApp\GitPractise_Demo\obj\Debug\netcoreapp3.1\GitPractiseDemo.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\GitPractiseDemoApp\GitPractise_Demo\obj\Debug\netcoreapp3.1\GitPractiseDemo.dll
+C:\Users\Home\source\repos\GitPractiseDemoApp\GitPractise_Demo\obj\Debug\netcoreapp3.1\GitPractiseDemo.pdb
+C:\Users\Home\source\repos\GitPractiseDemoApp\GitPractise_Demo\obj\Debug\netcoreapp3.1\GitPractiseDemo.genruntimeconfig.cache
