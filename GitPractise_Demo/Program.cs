@@ -6,8 +6,7 @@ namespace GitPractiseDemo
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Git Test!!!v2");
-			Console.WriteLine("Lol");
+            Console.WriteLine("Program text file");
         }
     }
 }
